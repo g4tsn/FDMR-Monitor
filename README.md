@@ -18,6 +18,9 @@ FDMR Monitor has been tested on Debian v10 and v11
 This version of FDMR Monitor requires a web server like apache2, lighttpd and 
 php 7.x running on the server.
 
+Here there is a trimmed version specific to UK FreeDMR with edits by G4TSN 
+
+
     cd /opt
     sudo git clone https://github.com/g4tsn/FDMR-Monitor.git
     cd FDMR-Monitor
